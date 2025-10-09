@@ -1,4 +1,4 @@
-# Air Quality AI Agent
+# Air Quality AI Agent - Backend
 
 This repository provides a simple AI agent that can fetch real-time and historical air quality data using OpenAQ.
 
